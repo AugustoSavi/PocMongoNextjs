@@ -3,7 +3,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "bash": "npm i && next dev"
   },
   "dependencies": {
     "axios": "^1.1.3",
